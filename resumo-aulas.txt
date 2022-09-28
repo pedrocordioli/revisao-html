@@ -1,0 +1,43 @@
+Aula guto/ franklin
+
+
+
+baixar Vscode, instalar extesões, colocar em pt-br.
+atalho HTML:
+alt+z(quebra de linha)
+(!+ enter) abre o corpo do doctype.
+Tags:
+head-Cabeça html
+body-corpo html
+title-titulo
+<!--comentario-->
+h1 a h6-titulo do site
+p-paragrafo
+br-quebra de linha
+a href- links
+img scr/ alt/ width/height- imagem
+video/audio (controls autoplay) alt- videos
+table (border)- criar tabela
+tr-linha
+td-coluna
+strong (negrito)
+em-italico
+&lt/&gt-entrar no comando sem ser uma tag    
+organizar paginas
+
+
+Aula Eduardo
+ffice:
+word (fazer vcard, qrcode,inserir tabelas e graficos, ordem de serviço, funções da ares de serviço)
+excel (graficos(pizza, barra) em planilha, formatação de grafico, inserir/fromatar tabela,
+algumas formulas (montante- (capital- entrada) x (1+ tx juros)^ parcelas,
+total de juros (montante-(capital-entrada)
+power point (criar/formatar slides), funções da area de serviço (inserir,transições, animações, link dentro de uma imagem)
+utilizamos o adobe photoshop, aprendemos algumas ferramentas como: mover, laço, seleção de objeto, corte, conta gotas, pincel, carimbo, borracha,
+texto, zoom (z+altZ), camadas, tratar a imagem (saturação, brilho e contraste), salvar em formato png.
+
+
+Aula marcelo
+o que seria algoritimo, seguir um fluxograma para a criação de barco de papel, instalar uma lampada, trocar um pneu, fazer um bolo.
+aprendemos a utilizar o pseudocodigo utilizando o portugol, sintaxe.
+
